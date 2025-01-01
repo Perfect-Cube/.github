@@ -1,6 +1,7 @@
 ## Hi there 👋
 Team Perfect Cube consists of three talented members: Aakarshit Srivastava, Bhaskar Banerjee, and Ayush Verma. Aakarshit excels in machine learning and data science, bringing advanced analytical skills to the team. Bhaskar specializes in cloud computing and cybersecurity, ensuring their solutions are both scalable and secure. Ayush focuses on big data and software development, managing complex data pipelines and creating robust applications. Together, they form a versatile team dedicated to driving technological innovation and delivering impactful solutions.
 https://www.linkedin.com/company/perfect-cube0001/
+![1734251064578](https://github.com/user-attachments/assets/77f865d3-ae33-494b-bfdc-37dc9ddb885e)
 
 <!--
 
